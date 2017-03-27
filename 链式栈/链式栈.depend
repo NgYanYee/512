@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1490630692 source:f:\Á´Ê½Õ»\clear.c
+	"head.h"
+
+1490634161 f:\Á´Ê½Õ»\head.h
+	<stdio.h>
+	<stdlib.h>
+
+1490620334 source:f:\Á´Ê½Õ»\destory.c
+	"head.h"
+
+1490630692 source:f:\Á´Ê½Õ»\gettop.c
+	"head.h"
+
+1490630692 source:f:\Á´Ê½Õ»\isempty.c
+	"head.h"
+
+1490634233 source:f:\Á´Ê½Õ»\init.c
+	"head.h"
+
+1490634666 source:f:\Á´Ê½Õ»\main.c
+	"head.h"
+
+1490634805 source:f:\Á´Ê½Õ»\pop.c
+	"head.h"
+
+1490634689 source:f:\Á´Ê½Õ»\print.c
+	"head.h"
+
+1490633079 source:f:\Á´Ê½Õ»\push.c
+	"head.h"
+
+1490634333 source:f:\Á´Ê½Õ»\stacklength.c
+	"head.h"
+
