@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1491129062 source:f:\循环数组\clear.c
+	"queue.h"
+
+1491228569 f:\循环数组\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1491214244 source:f:\循环数组\de.c
+	"queue.h"
+
+1491233943 source:f:\循环数组\en.c
+	"queue.h"
+
+1491214950 source:f:\循环数组\gethead.c
+	"queue.h"
+
+1491123105 source:f:\循环数组\init.c
+	"queue.h"
+
+1491214319 source:f:\循环数组\isempty.c
+	"queue.h"
+
+1491214319 source:f:\循环数组\isfull.c
+	"queue.h"
+
+1491230652 source:f:\循环数组\length.c
+	"queue.h"
+
+1491212281 source:f:\循环数组\print.c
+	"queue.h"
+
+1491228569 source:f:\循环数组\main.c
+	"queue.h"
+
+1491282640 source:f:\循环数组\traverse.c
+	"queue.h"
+

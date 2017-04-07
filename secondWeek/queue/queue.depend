@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1491287283 source:f:\queue\clear.c
+	"queue.h"
+
+1491152505 f:\queue\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1491207941 source:f:\queue\de.c
+	"queue.h"
+
+1491286392 source:f:\queue\destory.c
+	"queue.h"
+
+1491206306 source:f:\queue\en.c
+	"queue.h"
+
+1491146211 source:f:\queue\gethead.c
+	"queue.h"
+
+1491206192 source:f:\queue\init.c
+	"queue.h"
+
+1491209359 source:f:\queue\isempty.c
+	"queue.h"
+
+1491209433 source:f:\queue\isfull.c
+	"queue.h"
+
+1491063580 source:f:\queue\length.c
+	"queue.h"
+
+1491285858 source:f:\queue\main.c
+	"queue.h"
+
+1491206690 source:f:\queue\print.c
+	"queue.h"
+
+1491206306 source:f:\queue\traverse.c
+	"queue.h"
+
