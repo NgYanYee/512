@@ -1,0 +1,35 @@
+		body{
+			background-color:#ca503b;
+			background-repeat: no-repeat;
+			background-size:cover;
+			font-family:Microsoft YaHei,sans-serif;
+		}
+		hr{
+			width:28%;
+		}
+		.main{
+			color:white;
+			text-align: center;
+			width:100%;
+		}
+		.main button{
+			width:28%;
+			height:35px;
+			background-color:white;
+			border-radius:10px;
+			color:#c14c38;
+			font-size:15px;
+			font-family: Microsoft YaHei,sans-serif;
+		}
+		
+		input{
+			border-radius:10px;
+			height:35px;
+			width:300px;
+			border-size:0.5px;
+			font-size:20px;
+			margin:20px;
+		}
+		h1{
+			margin-top:10%;
+		}
