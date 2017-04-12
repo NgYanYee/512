@@ -1,0 +1,44 @@
+		*{
+			margin:0px;
+			padding:0px;
+		}
+		body{
+			background-image:url(../image/hua.jpg);
+			background-repeat: no-repeat;
+			background-size:cover;
+			font-family:Microsoft YaHei,sans-serif;
+		}
+		hr{
+			width:28%;
+			text-align:center;
+		}
+		.left{
+			position:absolute;
+			left:10%;
+			top:12%;
+			font-family: KaiTi,sans-serif;
+			font-size: 250%;
+			font-weight: bold;
+			z-index:-1;
+		}
+		.main{
+			background-color: rgba(255,255,255,0.9);
+			color:black;
+			margin-top:8.8%;
+			margin-left: 50%;
+			width:500px;
+
+		}
+		.username,.password,.button{
+			width:60%;
+			height:35px;
+			background-color:white;
+			margin:10px 18%;
+			font-size:16px;
+			font-family: Microsoft YaHei,sans-serif;
+		}
+		
+		
+		.h1{
+			text-align:center;
+		}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>登录页面</title>
+	<meta charset="utf-8">
+		<link rel="stylesheet" href="../css/login.css"/>
+</head>
+<body>
+	<div>
+	<div class="left">
+		<img src="../image/ico/butterfly.png"/>
+		<span>就现在，</span>
+		<p>开始我们的故事。</p>
+	</div>
+	<div class="main">
+		<form action="index.html"  onsubmit="return submitCheck()" method="post" target="blank">
+		
+		<h1 class="h1">登&nbsp;录</h1>
+		<br/>
+		<input type="text" name="username" id="username" class="username" placeholder="请输入用户名" maxlength="16" />
+		<br/>
+		<input type="password" name="password"  id="password" class="password" placeholder="请输入长度为8~16的密码" maxlength="16"/>
+		<p id="test"></p>
+		<br/>
+		<div>
+			<button type="submit" class="button">确认</button>
+		</div>
+		</form>
+	</div>
+	</div>
+	<script src="../js/login.js"></script>
+</body>
+</html>
