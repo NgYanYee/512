@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset="utf-8">
+<script>
+ function lighton()
+ {
+ document.getElementById('myimage').src="eg_bulbon.png";
+ }
+ function lightoff()
+ {
+ document.getElementById('myimage').src="eg_bulboff.png";
+ }
+</script>
+</head>
+<body>
+<img id="myimage" onmousedown="lighton()" onmouseup="lightoff()" src="eg_bulboff.png"/>
+</body>
+</html>
