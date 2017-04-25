@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1492222202 source:f:\qsort\main.c
+	"head.h"
+
+1492017318 f:\qsort\head.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1491847446 source:f:\qsort\text.c
+	"head.h"
+
+1492221809 source:f:\qsort\qsort.c
+	"head.h"
+
